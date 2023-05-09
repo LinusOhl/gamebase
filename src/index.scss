@@ -12,12 +12,12 @@
 }
 
 body {
-  background-color: #060d1d;
-  color: #e5e5e5;
+  background-color: #080708;
+  color: #e6e8e6;
 }
 
 h1 {
-  color: #fca311;
+  color: #fdca40;
   font-weight: 700;
 }
 
@@ -29,6 +29,10 @@ h6 {
   font-weight: 500;
 }
 
+.logo {
+  width: 20%;
+}
+
 .margin-fix {
   margin-top: 80px;
 }
@@ -37,7 +41,7 @@ h6 {
   padding-left: 0;
 
   .genre {
-    background-color: #fca311;
+    background-color: #fdca40;
     margin-right: 0.2rem;
   }
 }
@@ -54,11 +58,11 @@ h6 {
   object-fit: cover;
 }
 
-.fa-gamepad {
-  margin-right: 0.6rem;
-  color: #fca311;
-  font-size: 3rem;
-}
+// .fa-database {
+//   margin-right: 0.6rem;
+//   color: #fdca40;
+//   font-size: 3rem;
+// }
 
 .nav-left {
   display: flex;
@@ -76,7 +80,7 @@ h6 {
     margin-right: 4rem;
   }
   .nav-link:hover {
-    color: #fca311;
+    color: #fdca40;
     cursor: pointer;
   }
 }
@@ -91,21 +95,21 @@ h6 {
   font-weight: 500;
 }
 .btn-login:hover {
-  color: #fca311;
+  color: #fdca40;
 }
 
 .btn-signin {
   width: 90px;
-  background-color: #fca311;
+  background-color: #fdca40;
   color: #14213d;
   font-weight: 500;
   transition: all 0.3s;
 }
 .btn-signin:hover {
-  border: 1px solid #fca311;
-  color: #fca311;
+  border: 1px solid #fdca40;
+  color: #fdca40;
   font-weight: bold;
-  box-shadow: 0px 0px 16px 0px rgba(252, 162, 17, 0.9);
+  box-shadow: 0px 0px 16px 0px rgba(253, 202, 64, 0.9);
   transform: scale(1.05);
 }
 
@@ -116,7 +120,7 @@ h6 {
   text-overflow: ellipsis;
 }
 .card-title:hover {
-  color: #fca311;
+  color: #fdca40;
   // text-shadow: 0px 0px 12px rgba(252, 162, 17, 0.9);
   cursor: pointer;
 }

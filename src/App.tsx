@@ -8,15 +8,21 @@ function App() {
         <nav className="navbar fixed-top">
           <div className="container-fluid nav-container">
             <div className="nav-left">
-              <a className="navbar-brand" href="#">
-                <i className="fa-solid fa-gamepad"></i>
-                GAMEBASE
-              </a>
+              {/* <a className="" href="#"> */}
+              <img
+                src="./src/assets/rain-logo.svg"
+                alt="Rain logo"
+                className="logo"
+              />
+              {/* <i className="fa-solid fa-database"></i> */}
+              {/* ENTERBASE */}
+              {/* </a> */}
 
               <ul className="nav-links">
-                <li className="nav-link">News</li>
-                <li className="nav-link">Top50</li>
-                <li className="nav-link">About</li>
+                <li className="nav-link">Movies</li>
+                <li className="nav-link">Series</li>
+                <li className="nav-link">Games</li>
+                <li className="nav-link">Anime</li>
               </ul>
             </div>
 
