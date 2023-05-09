@@ -1,0 +1,20 @@
+nav {
+  background-color: #14213d80;
+  backdrop-filter: blur(8px);
+}
+
+.nav-container {
+  margin-left: 3rem;
+  margin-right: 3rem;
+
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    color: #fca311;
+  }
+
+  .navbar-brand:hover {
+    color: white;
+  }
+}

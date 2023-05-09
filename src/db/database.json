@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Persona 5 Royal",
+    "studio": "Atlus",
+    "genres": [
+      "RPG", "Adventure", "Turn-based"
+    ], 
+    "release_date": "October 31, 2019",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nic.png"
+  },
+  {
+    "title": "Disco Elysium",
+    "studio": "ZA/UM",
+    "genres": [
+      "RPG", "Adventure", "Turn-based"
+    ], 
+    "release_date": "October 15, 2019",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sfj.png"
+  },
+  {
+    "title": "Elden Ring",
+    "studio": "FromSoftware",
+    "genres": [
+      "Adventure", "RPG"
+    ], 
+    "release_date": "February 25, 2022",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.png"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "studio": "CD Projekt Red",
+    "genres": [
+      "RPG", "Adventure"
+    ], 
+    "release_date": "May 19, 2015",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wyy.png"
+  },
+  {
+    "title": "God of War",
+    "studio": "SIE Santa Monica Studio",
+    "genres": [
+      "Adventure", "Hack and Slash", "RPG"
+    ], 
+    "release_date": "April 20, 2018",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmu.png"
+  },
+  {
+    "title": "Chrono Trigger",
+    "studio": "Square",
+    "genres": [
+      "Adventure", "RPG"
+    ], 
+    "release_date": "March 11, 1995",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3plw.png"
+  },
+  {
+    "title": "The Last of Us",
+    "studio": "Naughty Dog",
+    "genres": [
+      "Adventure", "Shooter"
+    ], 
+    "release_date": "June 14, 2013",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.png"
+  },
+  {
+    "title": "Super Metroid",
+    "studio": "Nintendo",
+    "genres": [
+      "Platform", "Adventure", "Shooter"
+    ], 
+    "release_date": "March 19, 1994",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5osy.png"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "studio": "Rockstar Games",
+    "genres": [
+      "Adventure", "RPG", "Shooter"
+    ], 
+    "release_date": "October 26, 2018",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.png"
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "studio": "Nintendo EPD Production Group No. 3",
+    "genres": [
+      "RPG", "Adventure"
+    ], 
+    "release_date": "March 3, 2017",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.png"
+  },
+  {
+    "title": "Hollow Knight",
+    "studio": "Team Cherry",
+    "genres": [
+      "Indie", "Adventure", "Platform"
+    ], 
+    "release_date": "February 24, 2017",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rgi.png"
+  },
+  {
+    "title": "Hades",
+    "studio": "Supergiant Games",
+    "genres": [
+      "Hack and Slash", "Adventure", "Indie"
+    ], 
+    "release_date": "December 10, 2019",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vc.png"
+  }
+]
