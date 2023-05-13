@@ -8,15 +8,11 @@ function App() {
         <nav className="navbar fixed-top">
           <div className="container-fluid nav-container">
             <div className="nav-left">
-              {/* <a className="" href="#"> */}
               <img
                 src="./src/assets/rain-logo.svg"
                 alt="Rain logo"
                 className="logo"
               />
-              {/* <i className="fa-solid fa-database"></i> */}
-              {/* ENTERBASE */}
-              {/* </a> */}
 
               <ul className="nav-links">
                 <li className="nav-link">Movies</li>
@@ -34,18 +30,24 @@ function App() {
         </nav>
 
         <div className="margin-fix">
-          <div className="input-group mb-3">
-            <input
-              type="text"
-              className="form-control"
-              placeholder="search..."
-              aria-label="Search"
-              aria-describedby="searchbar"
-            />
+          <div className="search-filter">
+            <div className="input-group mb-3">
+              <input
+                type="text"
+                className="form-control"
+                placeholder="search..."
+                aria-label="Search"
+                aria-describedby="searchbar"
+              />
 
-            <span className="input-group-text" id="searchbar">
-              <i className="fa-solid fa-magnifying-glass"></i>
-            </span>
+              <span className="input-group-text" id="searchbar">
+                <i className="fa-solid fa-magnifying-glass"></i>
+              </span>
+            </div>
+
+            <button className="btn filter-btn">
+              Filter <i className="fa-solid fa-chevron-down"></i>
+            </button>
           </div>
 
           <div className="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4 mb-3">
