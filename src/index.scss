@@ -58,12 +58,6 @@ h6 {
   object-fit: cover;
 }
 
-// .fa-database {
-//   margin-right: 0.6rem;
-//   color: #fdca40;
-//   font-size: 3rem;
-// }
-
 .nav-left {
   display: flex;
   align-items: center;
@@ -101,7 +95,7 @@ h6 {
 .btn-signin {
   width: 90px;
   background-color: #fdca40;
-  color: #14213d;
+  color: #080708;
   font-weight: 500;
   transition: all 0.3s;
 }
@@ -123,4 +117,18 @@ h6 {
   color: #fdca40;
   // text-shadow: 0px 0px 12px rgba(252, 162, 17, 0.9);
   cursor: pointer;
+}
+
+.search-filter {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+
+  .filter-btn {
+    height: fit-content;
+    width: 6rem;
+    background-color: #fdca40;
+    border-color: #fdca40;
+    color: #080708;
+  }
 }
